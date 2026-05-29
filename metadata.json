@@ -1,0 +1,6 @@
+{
+  "name": "PDF Tools & AI Document Hub",
+  "description": "An all-in-one suite of high-performance PDF utilities to Merge, Split, Rotate, Convert, Watermark, and Protect PDFs, enhanced with Gemini-powered AI Document Analysis, OCR, translation, and interactive document chatting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
